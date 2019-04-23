@@ -1,9 +1,0 @@
-README.md
-setup.py
-ccode_replace_python/__init__.py
-ccode_replace_python/clthyn.txt
-ccode_replace_python/replace_ccode_country.py
-ccode_replace_python.egg-info/PKG-INFO
-ccode_replace_python.egg-info/SOURCES.txt
-ccode_replace_python.egg-info/dependency_links.txt
-ccode_replace_python.egg-info/top_level.txt
